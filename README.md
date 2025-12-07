@@ -2,7 +2,7 @@
 ## How-to
 
 1. 
-    cp .env.example .env
+    cp env-example .env
 
 2. Put your token into `.env`:
     ACCESS_TOKEN={token_from_task}
