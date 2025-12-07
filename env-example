@@ -1,0 +1,10 @@
+ACCESS_TOKEN=PUT_YOUR_TOKEN_HERE
+
+BASE_URL=https://hackattic.com
+
+DATABASE_URL=postgresql://postgres:postgres@postgres:5432/backup_restore
+PGHOST=postgres
+PGPORT=5432
+PGUSER=postgres
+PGPASSWORD=postgres
+PGDATABASE=backup_restore
